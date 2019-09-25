@@ -1,8 +1,24 @@
-## Welcome to GitHub Pages
+## Welcome to Haley Kwok's FYP project!
 
-You can use the [editor on GitHub](https://github.com/haleyk10198/haleyk100198.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+I am working individually under the supervision of [Dr. Z. Y. Huang](https://i.cs.hku.hk/~zhiyi/), towards the topic "Theorectical Research on **Online Matching**".
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Table of context
+1. Introduction
+
+# Introduction
+## So what is **Online Matching**?
+
+The "matching" here is referring to "Graph Matching" here. If you happened to be a UG student who is fond of algorithms, you might recall that you have heard this term from algorithmatic courses such as [COMP3351 Advanced Algorithm Analysis](https://www.cs.hku.hk/index.php/programmes/course-offered?infile=2018/comp3351.html), [COMP3352 Game Theory](https://www.cs.hku.hk/index.php/programmes/course-offered?infile=2019/comp3352.html).
+
+**What if I have never heard the topic?**
+
+You are most definitely missing out one of the most important classic algorithmatic field in the community, and should definitely read up some information about it due to its wide range of application. For example, matching algorithm is used for administrative purposes in the campus, such as [http://timroughgarden.org/f13/l/l10.pdf](allocating dorms) and [https://www.youtube.com/watch?v=xYkiCtlALHA](admitting new students).
+
+Owing to its popularity, I could guarantee you to find some chapters in any algorithmatic introductory textbooks at introductory level. However, if you have never heard of graph matching, _chance are -- You don't have one do you?_ As a workaround, we suggest you to check out this video by Udacity to learn the basics. 
+
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=bOJC93XxoFc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+**If you prefer reading text**, you may check out the wiki article that is fairly well written, or the appendices of the [](Detailed Project Plan).
 
 ### Markdown
 
