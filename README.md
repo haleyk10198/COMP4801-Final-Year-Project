@@ -3,10 +3,11 @@
 I am working individually under the supervision of [Dr. Z. Y. Huang](https://i.cs.hku.hk/~zhiyi/), towards the topic "Theorectical Research on **Online Matching**".
 
 # Table of context
-1. Introduction
-2. Research Scope
+1. [Introduction](#introduction)
+2. [Research Scope](#research-scope)
+3. [Documentations](documentations)
 
-# Introduction
+# [Introduction]
 ## So what is **Online Matching**?
 
 The "matching" here is referring to "Graph Matching" here. If you happened to be a UG student who is fond of algorithms, you might recall that you have heard this term from algorithmatic courses such as [COMP3351 Advanced Algorithm Analysis](https://www.cs.hku.hk/index.php/programmes/course-offered?infile=2018/comp3351.html), [COMP3352 Game Theory](https://www.cs.hku.hk/index.php/programmes/course-offered?infile=2019/comp3352.html).
@@ -54,36 +55,8 @@ Current stage: Scruntizing papers and crunching numbers, understanding the appro
 
 This is a tentative schedule extracted from the **Detailed Project Plan**
 
+<img src="public/img/schedule.png" alt="schedule"/>
 
+# Documentations
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/haleyk10198/haleyk100198.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[Detailed Project Plan](https://github.com/haleyk10198/FYP/blob/master/public/doc/Project_plan.pdf?raw=true)
