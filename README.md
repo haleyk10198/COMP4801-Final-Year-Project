@@ -14,14 +14,14 @@ The "matching" here is referring to "Graph Matching" here. If you happened to be
 
 **What if I have never heard the topic?**
 
-You are most definitely missing out one of the most important classic algorithmatic field in the community, and should definitely read up some information about it due to its wide range of application. For example, matching algorithm is used for administrative purposes in the campus, such as [http://timroughgarden.org/f13/l/l10.pdf](allocating dorms) and [https://www.youtube.com/watch?v=xYkiCtlALHA](admitting new students).
+You are most definitely missing out one of the most important classic algorithmatic field in the community, and should definitely read up some information about it due to its wide range of application. For example, matching algorithm is used for administrative purposes in the campus, such as [allocating dorms](http://timroughgarden.org/f13/l/l10.pdf) and [admitting new students](https://www.youtube.com/watch?v=xYkiCtlALHA).
 
 Owing to its popularity, I could guarantee you to find some chapters in any algorithmatic introductory textbooks at introductory level. However, if you have never heard of graph matching, _chances are -- You don't have one with you, do you?_ As a workaround, we suggest you to check out this video by Udacity to learn the basics. 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bOJC93XxoFc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 **If you prefer reading text**
-You may check out the [https://en.wikipedia.org/wiki/Matching_(graph_theory)](wiki article) that is fairly well written, or the appendices of the [Detailed Project Plan](#documentations).
+You may check out the [wiki article](https://en.wikipedia.org/wiki/Matching_(graph_theory)) that is fairly well written, or the appendices of the [Detailed Project Plan](#documentations).
 
 # Research Scope
 
