@@ -41,7 +41,7 @@ With this analogy, the Online Matching problem is not unsolved, as there is a ga
 
 **What model / methodology does the project use?**
 
-The analysis is expected to be carried out under the Randomized Primal-Dual framework. If this happens to be the first time you have came across with using dual Linear Programming to carry out analysis, please take a look at this excellent video from Georgia Tech introducing the concept of duality in the context of maximum graph matching.
+The analysis is expected to be carried out under the Randomized Primal-Dual framework. If this happens to be the first time you have came across with using dual Linear Programming to carry out analysis, please take a look at this excellent video by Georgia Tech introducing the concept of duality in the context of maximum graph matching.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ULI8fJoiG_c" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
