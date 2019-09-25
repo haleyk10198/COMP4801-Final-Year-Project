@@ -7,7 +7,7 @@ I am working individually under the supervision of [Dr. Z. Y. Huang](https://i.c
 2. [Research Scope](#research-scope)
 3. [Documentations](documentations)
 
-# [Introduction]
+# Introduction
 ## So what is **Online Matching**?
 
 The "matching" here is referring to "Graph Matching" here. If you happened to be a UG student who is fond of algorithms, you might recall that you have heard this term from algorithmatic courses such as [COMP3351 Advanced Algorithm Analysis](https://www.cs.hku.hk/index.php/programmes/course-offered?infile=2018/comp3351.html), [COMP3352 Game Theory](https://www.cs.hku.hk/index.php/programmes/course-offered?infile=2019/comp3352.html).
@@ -21,7 +21,7 @@ Owing to its popularity, I could guarantee you to find some chapters in any algo
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bOJC93XxoFc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 **If you prefer reading text**
-You may check out the [https://en.wikipedia.org/wiki/Matching_(graph_theory)](wiki article) that is fairly well written, or the appendices of the [](Detailed Project Plan).
+You may check out the [https://en.wikipedia.org/wiki/Matching_(graph_theory)](wiki article) that is fairly well written, or the appendices of the [Detailed Project Plan](#documentations).
 
 # Research Scope
 
@@ -45,7 +45,7 @@ The analysis is expected to be carried out under the Randomized Primal-Dual fram
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ULI8fJoiG_c" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-Furthermore, it is highly likely that the work will be done under the fully online model. For a more detailed coverage of the model, please read the introduction section of the **Detailed Project Plan**.
+Furthermore, it is highly likely that the work will be done under the fully online model. For a more detailed coverage of the model, please read the introduction section of the [**Detailed Project Plan**](#documentations).
 
 # Project Progress
 
@@ -53,7 +53,7 @@ Current stage: Scruntizing papers and crunching numbers, understanding the appro
 
 ## Schedule
 
-This is a tentative schedule extracted from the **Detailed Project Plan**
+This is a tentative schedule extracted from the [**Detailed Project Plan**](#documentations).
 
 <img src="public/img/schedule.png" alt="schedule"/>
 
