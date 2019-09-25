@@ -4,6 +4,7 @@ I am working individually under the supervision of [Dr. Z. Y. Huang](https://i.c
 
 # Table of context
 1. Introduction
+2. Research Scope
 
 # Introduction
 ## So what is **Online Matching**?
@@ -14,11 +15,46 @@ The "matching" here is referring to "Graph Matching" here. If you happened to be
 
 You are most definitely missing out one of the most important classic algorithmatic field in the community, and should definitely read up some information about it due to its wide range of application. For example, matching algorithm is used for administrative purposes in the campus, such as [http://timroughgarden.org/f13/l/l10.pdf](allocating dorms) and [https://www.youtube.com/watch?v=xYkiCtlALHA](admitting new students).
 
-Owing to its popularity, I could guarantee you to find some chapters in any algorithmatic introductory textbooks at introductory level. However, if you have never heard of graph matching, _chance are -- You don't have one do you?_ As a workaround, we suggest you to check out this video by Udacity to learn the basics. 
+Owing to its popularity, I could guarantee you to find some chapters in any algorithmatic introductory textbooks at introductory level. However, if you have never heard of graph matching, _chances are -- You don't have one with you, do you?_ As a workaround, we suggest you to check out this video by Udacity to learn the basics. 
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=bOJC93XxoFc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bOJC93XxoFc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-**If you prefer reading text**, you may check out the wiki article that is fairly well written, or the appendices of the [](Detailed Project Plan).
+**If you prefer reading text**
+You may check out the [https://en.wikipedia.org/wiki/Matching_(graph_theory)](wiki article) that is fairly well written, or the appendices of the [](Detailed Project Plan).
+
+# Research Scope
+
+**Isn't "Graph Matching" a solved problem? What are trying to achieve with this project?**
+
+While the Graph Matching problem has been solved in the classical (i.e. offline) setting, a lot of questions remains to be unsolved in the **online** setting.
+
+**You keep bringing this "Online" term up, what difference does it make?**
+
+In the context of algorithm analysis, whenever we say some problem is "online", we mean that not all information is available to the algorithm at the time of initialization, and they are revealed eventually as the algorithm runs. To demonstrate the , let's consider the difference between _Bachelor_ and _PhD_ admission.
+
+**Bachelor** applications always comes in a batch on a yearly basis. The JUPAS system gathers all the information before it makes an informed decision, such as slots offered by each degree programme, applicants' preferences and their public examination transcripts. As Uncle John said, "_With perfect information comes perfect solution._" (OK he did not actually said this). The matching problem under this offline setting is said to be solved, because the algorithm is capable of deriving an optimal solution, given full information on initialization.
+
+On the other hand, **PhD** applications are handled in a rolling basis in HKU CS. After the department opens for Phd applications on September, applications flood in throughout the year. If the professors were to handle the admission only after the application process is closed on May, there is simply no hope for them to go through all of them, and students may have already accepted some other institutions offer instead. To keep the students interested (_and professors away from overwork_), the office clears the application pool periodically and hand out offers. As a tradeoff, since the department does not have perfect information on all its potential candidates at the earlier clearing stages, they does not always admit the best students out of all the applicants -- Maybe they ran out of slots by the time a strong candidate applied, or they rejected the strong candidate with the belief that the next Einstein will make his application on April.
+
+With this analogy, the Online Matching problem is not unsolved, as there is a gap between the performance of the best existing algorithm and what the law of nature permits us to achieve.
+
+**What model / methodology does the project use?**
+
+The analysis is expected to be carried out under the Randomized Primal-Dual framework. If this happens to be the first time you have came across with using dual Linear Programming to carry out analysis, please take a look at this excellent video from Georgia Tech introducing the concept of duality in the context of maximum graph matching.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ULI8fJoiG_c" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+Furthermore, it is highly likely that the work will be done under the fully online model. For a more detailed coverage of the model, please read the introduction section of the **Detailed Project Plan**.
+
+# Project Progress
+
+Current stage: Scruntizing papers and crunching numbers, understanding the approaches used by the current research frontier.
+
+## Schedule
+
+This is a tentative schedule extracted from the **Detailed Project Plan**
+
+
 
 ### Markdown
 
