@@ -46,6 +46,7 @@ In the context of algorithm analysis, whenever we say some problem is "online", 
 This offline matching problem is said to be "solved", because the algorithm is capable of deriving an optimal solution, given full information on initialization.
 </details>
 
+<br/>
 
 <details>
   <summary> <strong>PhD</strong> admissions </summary>
@@ -53,7 +54,7 @@ This offline matching problem is said to be "solved", because the algorithm is c
   <img src="public/img/phd.png" alt="phd" hidden/>
 
   On the other hand, <strong>PhD</strong> applications are handled in a rolling basis in HKU CS. After the department opens for Phd applications on September, applications begin to flood in throughout the year. If the professors were to handle the admission only after the application process is closed on May, there is simply no hope for them to go through all of them, and students may have already accepted some other institutions offer instead. 
-  
+  <br/>
   To keep the students interested (<em>and professors away from overworking</em>), the office clears the application pool periodically and hand out offers. As a tradeoff, since the department does not have perfect information on all its potential candidates at the earlier clearing stages, they does not always admit the best students out of all the applicants -- Maybe they ran out of slots by the time a strong candidate applied, or they rejected the strong candidate, hoping that the next Einstein will make his application on April which never showed up in reality.
 </details>
 
