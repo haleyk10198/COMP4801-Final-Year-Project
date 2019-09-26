@@ -39,15 +39,12 @@ In the context of algorithm analysis, whenever we say some problem is "online", 
   
   <img src="public/img/jupas.png" alt="jupas" hidden/>
   
-  <strong>Bachelor</strong> degree offers are handed out on a yearly basis. The JUPAS system gathers all the information before it makes an informed decision, such as slots offered by each degree programme, applicants' preferences and their public examination transcripts. Just as good ol' Uncle John says, 
-  
-> "<em>With perfect information comes perfect solution.</em>", proooobably Uncle John.
+  <strong>Bachelor</strong> degree offers are handed out on a yearly basis. The JUPAS system gathers all the information before it makes an informed decision, such as slots offered by each degree programme, applicants' preferences and their public examination transcripts. Just as what good ol' Uncle John prooooobably said, "<em>With perfect information comes perfect solution.</em>".
 
 This offline matching problem is said to be "solved", because the algorithm is capable of deriving an optimal solution, given full information on initialization.
 </details>
 
 <br/>
-
 <details>
   <summary> <strong>PhD</strong> admissions </summary>
   
