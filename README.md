@@ -1,3 +1,5 @@
+<link type="text/css" rel="stylesheet" href="public/css/style.css" />
+
 ## Welcome to Haley Kwok's FYP project!
 
 I am working individually under the supervision of [Dr. Z. Y. Huang](https://i.cs.hku.hk/~zhiyi/), towards the topic "Theorectical Research on **Online Matching**".
@@ -34,7 +36,7 @@ While the Graph Matching problem has been solved in the classical (i.e. offline)
 
 In the context of algorithm analysis, whenever we say some problem is "online", we mean that not all information is available to the algorithm at the time of initialization, and they are revealed eventually as the algorithm runs. To demonstrate the difference, let's consider the difference between **Bachelor** and **PhD** admissions.
 
-<details style="border-style: solid; border-width: thick; padding: 0 0.5em 0 0.5em;">
+<details>
   <summary> <strong>Bachelor</strong> admissions </summary>
   
   <strong>Bachelor</strong> degree offers are handed out on a yearly basis. The JUPAS system gathers all the information before it makes an informed decision, such as slots offered by each degree programme, applicants' preferences and their public examination transcripts. Just as what good ol' Uncle John prooooobably said, "<em>With perfect information comes perfect solution</em>".
