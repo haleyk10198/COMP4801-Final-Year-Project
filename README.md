@@ -29,11 +29,16 @@ You may check out the [wiki article](https://en.wikipedia.org/wiki/Matching_(gra
 
 While the Graph Matching problem has been solved in the classical (i.e. offline) setting, a lot of questions remains to be unsolved in the **online** setting.
 
-**You keep bringing this "Online" term up, what difference does it make?**
+**You keet bringing this "Online" term up, what difference does it make?**
 
-In the context of algorithm analysis, whenever we say some problem is "online", we mean that not all information is available to the algorithm at the time of initialization, and they are revealed eventually as the algorithm runs. To demonstrate the , let's consider the difference between _Bachelor_ and _PhD_ admission.
+In the context of algorithm analysis, whenever we say some problem is "online", we mean that not all information is available to the algorithm at the time of initialization, and they are revealed eventually as the algorithm runs. To demonstrate the difference, let's consider the difference between _Bachelor_ and _PhD_ admission.
 
-**Bachelor** applications always comes in a batch on a yearly basis. The JUPAS system gathers all the information before it makes an informed decision, such as slots offered by each degree programme, applicants' preferences and their public examination transcripts. As Uncle John said, "_With perfect information comes perfect solution._" (OK he did not actually said this). The matching problem under this offline setting is said to be solved, because the algorithm is capable of deriving an optimal solution, given full information on initialization.
+<details>
+  <summary> ** Bachelor applications </summary>
+  
+  <img src="/public/img/jupas"
+  **Bachelor** applications always comes in a batch on a yearly basis. The JUPAS system gathers all the information before it makes an informed decision, such as slots offered by each degree programme, applicants' preferences and their public examination transcripts. As Uncle John (probably) said, "_With perfect information comes perfect solution._". This offline matching problem is said to be "solved", because the algorithm is capable of deriving an optimal solution, given full information on initialization.
+</details>
 
 On the other hand, **PhD** applications are handled in a rolling basis in HKU CS. After the department opens for Phd applications on September, applications flood in throughout the year. If the professors were to handle the admission only after the application process is closed on May, there is simply no hope for them to go through all of them, and students may have already accepted some other institutions offer instead. To keep the students interested (_and professors away from overwork_), the office clears the application pool periodically and hand out offers. As a tradeoff, since the department does not have perfect information on all its potential candidates at the earlier clearing stages, they does not always admit the best students out of all the applicants -- Maybe they ran out of slots by the time a strong candidate applied, or they rejected the strong candidate with the belief that the next Einstein will make his application on April.
 
