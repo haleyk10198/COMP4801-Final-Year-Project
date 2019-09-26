@@ -39,8 +39,10 @@ In the context of algorithm analysis, whenever we say some problem is "online", 
   
   <strong>Bachelor</strong> degree offers are handed out on a yearly basis. The JUPAS system gathers all the information before it makes an informed decision, such as slots offered by each degree programme, applicants' preferences and their public examination transcripts. Just as what good ol' Uncle John prooooobably said, "<em>With perfect information comes perfect solution</em>".
 
+<p>
   <img src="public/img/jupas.png" alt="jupas"/>
-  <figcaption>THe JUPAS office collects all information before making an informed decision</figcaption>
+  <span style="font-family:Consolas; font-size:1em;">The JUPAS office collects all information before making an informed decision</span>
+</p>
 
   This offline matching problem is said to be "solved", because the algorithm is capable of deriving an optimal solution, given full information on initialization.
 </details>
@@ -50,9 +52,11 @@ In the context of algorithm analysis, whenever we say some problem is "online", 
 
   On the other hand, <strong>PhD</strong> applications are handled in a rolling basis in HKU CS. After the department opens for Phd applications on September, applications begin to flood in throughout the year. If the professors were to handle the admission only after the application process is closed on May, there is simply no hope for them to go through all of them, and students may have already accepted some other institutions offer instead. 
   
+<p>
   <img src="public/img/phd.png" alt="phd"/>
-  <figcaption>The department has to handle applications whenever they come in</figcaption>
-  
+  <span style="font-family:Consolas; font-size:1em;">The department has to handle applications whenever they come in</span>
+</p>
+
   To keep the students interested (<em>and professors away from overworking</em>), the office clears the application pool periodically and hands out offers. As a tradeoff, the department does not always admit the best applicants as they don't have information on all potential applicants when they made the decision -- Maybe they ran out of slots by the time a strong candidate applied, or they rejected the strong candidate with the hope that the next Einstein will make his application on April, <em>who never showed up in reality</em>.
 </details>
 
