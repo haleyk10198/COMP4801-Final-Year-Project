@@ -34,7 +34,7 @@ While the Graph Matching problem has been solved in the classical (i.e. offline)
 
 In the context of algorithm analysis, whenever we say some problem is "online", we mean that not all information is available to the algorithm at the time of initialization, and they are revealed eventually as the algorithm runs. To demonstrate the difference, let's consider the difference between **Bachelor** and **PhD** admissions.
 
-<details>
+<details style="border-style: solid; border-width: thick; padding: 0 0.5em 0 0.5em;">
   <summary> <strong>Bachelor</strong> admissions </summary>
   
   <strong>Bachelor</strong> degree offers are handed out on a yearly basis. The JUPAS system gathers all the information before it makes an informed decision, such as slots offered by each degree programme, applicants' preferences and their public examination transcripts. Just as what good ol' Uncle John prooooobably said, "<em>With perfect information comes perfect solution</em>".
@@ -47,7 +47,7 @@ In the context of algorithm analysis, whenever we say some problem is "online", 
   This offline matching problem is said to be "solved", because the algorithm is capable of deriving an optimal solution, given full information on initialization.
 </details>
 <br/>
-<details>
+<details style="border-style: solid; border-width: thick; padding: 0 0.5em 0 0.5em;">
   <summary> <strong>PhD</strong> admissions </summary>
 
   On the other hand, <strong>PhD</strong> applications are handled in a rolling basis in HKU CS. After the department opens for Phd applications on September, applications begin to flood in throughout the year. If the professors were to handle the admission only after the application process is closed on May, there is simply no hope for them to go through all of them, and students may have already accepted some other institutions offer instead. 
