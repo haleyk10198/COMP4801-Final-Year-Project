@@ -34,9 +34,9 @@ While the Graph Matching problem has been solved in the classical (i.e. offline)
 In the context of algorithm analysis, whenever we say some problem is "online", we mean that not all information is available to the algorithm at the time of initialization, and they are revealed eventually as the algorithm runs. To demonstrate the difference, let's consider the difference between _Bachelor_ and _PhD_ admission.
 
 <details>
-  <summary> ** Bachelor applications </summary>
+  <summary> Bachelor applications </summary>
   
-  <img src="/public/img/jupas"
+  <img src="/public/img/jupas"/>
   **Bachelor** applications always comes in a batch on a yearly basis. The JUPAS system gathers all the information before it makes an informed decision, such as slots offered by each degree programme, applicants' preferences and their public examination transcripts. As Uncle John (probably) said, "_With perfect information comes perfect solution._". This offline matching problem is said to be "solved", because the algorithm is capable of deriving an optimal solution, given full information on initialization.
 </details>
 
