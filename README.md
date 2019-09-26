@@ -37,24 +37,24 @@ In the context of algorithm analysis, whenever we say some problem is "online", 
 <details>
   <summary> <strong>Bachelor</strong> admissions </summary>
   
-  <img src="public/img/jupas.png" alt="jupas" hidden/>
-  
   <strong>Bachelor</strong> degree offers are handed out on a yearly basis. The JUPAS system gathers all the information before it makes an informed decision, such as slots offered by each degree programme, applicants' preferences and their public examination transcripts. Just as what good ol' Uncle John prooooobably said, "<em>With perfect information comes perfect solution</em>".
 
-This offline matching problem is said to be "solved", because the algorithm is capable of deriving an optimal solution, given full information on initialization.
+  <img src="public/img/jupas.png" alt="jupas" hidden/>
+
+  This offline matching problem is said to be "solved", because the algorithm is capable of deriving an optimal solution, given full information on initialization.
 </details>
 <br/>
 <details>
   <summary> <strong>PhD</strong> admissions </summary>
-  
-  <img src="public/img/phd.png" alt="phd" hidden/>
 
   On the other hand, <strong>PhD</strong> applications are handled in a rolling basis in HKU CS. After the department opens for Phd applications on September, applications begin to flood in throughout the year. If the professors were to handle the admission only after the application process is closed on May, there is simply no hope for them to go through all of them, and students may have already accepted some other institutions offer instead. 
-  <br/>
+  
+  <img src="public/img/phd.png" alt="phd" hidden/>
+  
   To keep the students interested (<em>and professors away from overworking</em>), the office clears the application pool periodically and hands out offers. As a tradeoff, the department does not always admit the best applicants as they don't have information on all potential applicants when they made the decision -- Maybe they ran out of slots by the time a strong candidate applied, or they rejected the strong candidate with the hope that the next Einstein will make his application on April, <em>who never showed up in reality</em>.
 </details>
 
-Under this analogy, the Online Matching problem is not solved, not because of the state-of-the-art algorithm incapability in performing optimally, but incapability in meeting our expected optimal performance -- Which is a bit confusing. To be clear -- We are either over optimistic with what the law of nature permits us to achieve or too dumb to find a better algorithm, or perhaps both of them.
+Under this analogy, the Online Matching problem is not solved, not because of the state-of-the-art algorithm incapability in performing optimally, but incapability in meeting our expected optimal performance -- We are either over optimistic with what the law of nature permits us to achieve, or too dumb to find a better algorithm, or perhaps both of them.
 
 **What model / methodology does the project use?**
 
