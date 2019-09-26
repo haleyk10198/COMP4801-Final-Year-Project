@@ -70,7 +70,9 @@ Furthermore, it is highly likely that the work will be done under the fully onli
 
 # Project Progress
 
-Current stage: Scruntizing papers and crunching numbers, understanding the approaches used by the current research frontier.
+Current stage: 
+
+Scruntizing papers and crunching numbers, understanding the approaches used by the current research frontier.
 
 ## Schedule
 
