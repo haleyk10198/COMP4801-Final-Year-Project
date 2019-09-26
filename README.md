@@ -41,7 +41,7 @@ In the context of algorithm analysis, whenever we say some problem is "online", 
 
 <p>
   <img src="public/img/jupas.png" alt="jupas"/>
-  <span style="font-family:Consolas; font-size:1em;">The JUPAS office collects all information before making an informed decision</span>
+  <span style="font-family:Consolas; font-size:0.8em; display: block; color: #8e8e8e; text-align: center;">The JUPAS office collects all information before making an informed decision</span>
 </p>
 
   This offline matching problem is said to be "solved", because the algorithm is capable of deriving an optimal solution, given full information on initialization.
@@ -54,7 +54,7 @@ In the context of algorithm analysis, whenever we say some problem is "online", 
   
 <p>
   <img src="public/img/phd.png" alt="phd"/>
-  <span style="font-family:Consolas; font-size:1em;">The department has to handle applications whenever they come in</span>
+  <span style="font-family:Consolas; font-size:0.8em; display: block; color: #8e8e8e; text-align: center;">The department has to handle applications whenever they come in</span>
 </p>
 
   To keep the students interested (<em>and professors away from overworking</em>), the office clears the application pool periodically and hands out offers. As a tradeoff, the department does not always admit the best applicants as they don't have information on all potential applicants when they made the decision -- Maybe they ran out of slots by the time a strong candidate applied, or they rejected the strong candidate with the hope that the next Einstein will make his application on April, <em>who never showed up in reality</em>.
