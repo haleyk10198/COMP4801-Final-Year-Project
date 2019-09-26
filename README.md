@@ -32,7 +32,7 @@ While the Graph Matching problem has been solved in the classical (i.e. offline)
 
 **You kept bringing this "Online" term up, what difference does it make?**
 
-In the context of algorithm analysis, whenever we say some problem is "online", we mean that not all information is available to the algorithm at the time of initialization, and they are revealed eventually as the algorithm runs. To demonstrate the difference, let's consider the difference between **Bachelor** and **PhD** admission.
+In the context of algorithm analysis, whenever we say some problem is "online", we mean that not all information is available to the algorithm at the time of initialization, and they are revealed eventually as the algorithm runs. To demonstrate the difference, let's consider the difference between **Bachelor** and **PhD** admissions.
 
 <details>
   <summary> <strong>Bachelor</strong> admissions </summary>
