@@ -21,6 +21,7 @@ Owing to its popularity, I could guarantee you to find some chapters in any algo
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bOJC93XxoFc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 **If you prefer reading text**
+
 You may check out the [wiki article](https://en.wikipedia.org/wiki/Matching_(graph_theory)) that is fairly well written, or the appendices of the [Detailed Project Plan](#documentations).
 
 # Research Scope
@@ -34,15 +35,22 @@ While the Graph Matching problem has been solved in the classical (i.e. offline)
 In the context of algorithm analysis, whenever we say some problem is "online", we mean that not all information is available to the algorithm at the time of initialization, and they are revealed eventually as the algorithm runs. To demonstrate the difference, let's consider the difference between _Bachelor_ and _PhD_ admission.
 
 <details>
-  <summary> Bachelor applications </summary>
+  <summary> Bachelor admissions </summary>
   
-  <img src="/public/img/jupas"/>
+  <img src="public/img/jupas.png" alt="jupas"/>
+  
   **Bachelor** applications always comes in a batch on a yearly basis. The JUPAS system gathers all the information before it makes an informed decision, such as slots offered by each degree programme, applicants' preferences and their public examination transcripts. As Uncle John (probably) said, "_With perfect information comes perfect solution._". This offline matching problem is said to be "solved", because the algorithm is capable of deriving an optimal solution, given full information on initialization.
 </details>
 
-On the other hand, **PhD** applications are handled in a rolling basis in HKU CS. After the department opens for Phd applications on September, applications flood in throughout the year. If the professors were to handle the admission only after the application process is closed on May, there is simply no hope for them to go through all of them, and students may have already accepted some other institutions offer instead. To keep the students interested (_and professors away from overwork_), the office clears the application pool periodically and hand out offers. As a tradeoff, since the department does not have perfect information on all its potential candidates at the earlier clearing stages, they does not always admit the best students out of all the applicants -- Maybe they ran out of slots by the time a strong candidate applied, or they rejected the strong candidate with the belief that the next Einstein will make his application on April.
+<details>
+  <summary> PhD admissions </summary>
+  
+  <img src="public/img/phd.png" alt="phd"/>
 
-With this analogy, the Online Matching problem is not unsolved, as there is a gap between the performance of the best existing algorithm and what the law of nature permits us to achieve.
+  On the other hand, **PhD** applications are handled in a rolling basis in HKU CS. After the department opens for Phd applications on September, applications flood in throughout the year. If the professors were to handle the admission only after the application process is closed on May, there is simply no hope for them to go through all of them, and students may have already accepted some other institutions offer instead. To keep the students interested (_and professors away from overwork_), the office clears the application pool periodically and hand out offers. As a tradeoff, since the department does not have perfect information on all its potential candidates at the earlier clearing stages, they does not always admit the best students out of all the applicants -- Maybe they ran out of slots by the time a strong candidate applied, or they rejected the strong candidate with the belief that the next Einstein will make his application on April.
+</details>
+
+Under this analogy, the Online Matching problem is not solved, as there is a gap between the performance of the best existing algorithm and what the law of nature permits us to achieve.
 
 **What model / methodology does the project use?**
 
