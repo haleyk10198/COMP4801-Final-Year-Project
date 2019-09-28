@@ -86,4 +86,4 @@ This is a tentative schedule extracted from the [**Detailed Project Plan**](#doc
 
 # Documentations
 
-[Detailed Project Plan](public/doc/Project_plan.pdf?raw=true)
+[Detailed Project Plan](public/doc/project-plan.pdf?raw=true)
