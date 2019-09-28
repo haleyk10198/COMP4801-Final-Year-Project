@@ -52,7 +52,7 @@ In the context of algorithm analysis, whenever we say some problem is "online", 
 <details>
   <summary> <strong>PhD</strong> admissions </summary>
 
-  On the other hand, <strong>PhD</strong> applications are handled in a rolling basis in HKU CS. After the department opens for Phd applications on September, applications begin to flood in throughout the year. If the professors were to handle the admission only after the application process is closed on May, there is simply no hope for them to go through all of them, and students may have already accepted some other institutions offer instead. 
+  On the other hand, <strong>PhD</strong> applications are handled in a rolling basis in HKU CS. After the department opens for Phd applications on September, applications begin to flood in throughout the year. If the professors were to handle the admission only after the application process is closed on May, there is simply no hope for them to go through all of them, and students may have already accepted some other institutions' offer instead. 
   
 <p>
   <img src="public/img/phd.png" alt="phd"/>
@@ -66,11 +66,11 @@ Under this analogy, the Online Matching problem is not solved, not because of th
 
 **What model / methodology does the project use?**
 
-The analysis is expected to be carried out under the Randomized Primal-Dual framework. If this happened to be the first time you have came across analysis done with dual Linear Programming, please take a look at this excellent video by Georgia Tech introducing the concept of duality in the context of maximum graph matching.
+The analysis is expected to be carried out under the Randomized Primal-Dual framework. If this happens to be the first time you came across analysis done with dual Linear Programming, please take a look at this excellent video by Georgia Tech introducing the concept of duality in the context of maximum graph matching.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ULI8fJoiG_c" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-Furthermore, it is highly likely that the work will be done under the fully online model. For a more detailed coverage of the model, please read the introduction section of the [**Detailed Project Plan**](#documentations).
+Furthermore, it is highly likely that the work will be done under the fully online model. For a more detailed coverage of technical details, please read the appendices of the [**Detailed Project Plan**](#documentations).
 
 # Project Progress
 
